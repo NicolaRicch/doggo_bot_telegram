@@ -964,8 +964,6 @@ Sviluppato per il corso **[Develhope](https://develhope.co)** - Data Science & A
 
 **Buono studio e buon coding! 🚀**
 
-Hai domande? [Apri una Issue](../../issues) o chiedi nel forum del corso!
-
 Made with ❤️ for aspiring AI developers
 
 </div>
